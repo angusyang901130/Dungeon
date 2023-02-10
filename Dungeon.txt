@@ -1,0 +1,22 @@
+angus
+30
+30
+125
+125
+25
+Pistol
+none
+2
+no weapon
+Pistol
+2
+0
+1
+1
+0
+1
+1
+2
+1
+2
+1
